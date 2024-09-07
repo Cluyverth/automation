@@ -1,0 +1,15 @@
+# Ignorar arquivos de configuração
+.env
+config.ini
+
+# Ignorar arquivos temporários
+test_query.sql
+
+# Ignorar o diretório do ambiente virtual
+.venv/
+
+# Ignorar arquivos de complicação e cache
+
+__pycache__/
+*.pyc
+*.pyo
