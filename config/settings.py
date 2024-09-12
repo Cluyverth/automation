@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 from typing import Dict, Optional
 
-load_dotenv()
+load_dotenv()   
 
 def load_config() -> configparser.ConfigParser:
     config = configparser.ConfigParser()

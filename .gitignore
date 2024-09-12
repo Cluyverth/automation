@@ -8,6 +8,9 @@ test_query.sql
 # Ignorar o diretório do ambiente virtual
 .venv/
 
+# ignora versão .tools-version do asdf
+.tool-versions
+
 # Ignorar arquivos de complicação e cache
 
 __pycache__/
